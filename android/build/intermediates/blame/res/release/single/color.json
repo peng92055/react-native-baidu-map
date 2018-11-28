@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color/abc_primary_text_disable_only_material_light.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

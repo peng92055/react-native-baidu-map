@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/values-xlarge-land/values-xlarge-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "288",
+                        "endColumns": "63",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/values-xlarge-land/values-xlarge-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "288",
+                        "endColumns": "63",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

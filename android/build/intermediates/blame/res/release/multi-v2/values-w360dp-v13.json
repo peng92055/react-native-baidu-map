@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/values-w360dp/values-w360dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "283",
+                        "endColumns": "54",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/pengyajun/workspace/sinochem-ubmp-app/trunk/ubmp-app/node_modules/react-native-baidu-map/android/build/intermediates/res/merged/release/values-w360dp-v13/values-w360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/pengyajun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4c43ddff89f4ffbc2a5028d44d737721/res/values-w360dp/values-w360dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "283",
+                        "endColumns": "54",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
